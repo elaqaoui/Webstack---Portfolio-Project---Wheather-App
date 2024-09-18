@@ -14,7 +14,7 @@ The **Weather Application** is a web-based tool for providing current and foreca
 
 ## Installation
 
-To run the Weather Application locally, follow these steps:
+To run the Weather Application locally, follow these steps :
 
 1. **Clone the Repository**:
 
