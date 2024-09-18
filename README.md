@@ -10,7 +10,7 @@ The **Weather Application** is a web-based tool for providing current and foreca
 - **Current Weather Information**: Displays the current temperature, weather condition, and time.
 - **Weather Forecast**: Shows a 5-day weather forecast with temperature highs and lows.
 - **Responsive Design**: Adaptable layout for various screen sizes.
-- **Date and Time**: Displays the current date and time in a formatted manner.
+- **Date and Time**: Displays the current date and time in a formatted manner
 
 ## Installation
 
