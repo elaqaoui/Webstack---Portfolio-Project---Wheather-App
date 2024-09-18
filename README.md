@@ -3,7 +3,7 @@ google slides :  https://docs.google.com/presentation/d/1D445HkztrWqSILUniAw8Zas
 
 ## Overview
 
-The **Weather Application** is a web-based tool for providing current and forecasted weather information. Built using HTML, CSS, and JavaScript, this application utilizes the OpenWeatherMap API to deliver real-time weather updates and forecasts.
+The **Weather Application** is a web-based tool for providing current and forecasted weather information. Built using HTML, CSS, and JavaScript, this application utilizes the OpenWeatherMap API to deliver real-time weather for Morocco Marrakech,Agadir updates and forecasts.
 
 ## Features
 
